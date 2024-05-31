@@ -16,7 +16,7 @@ O site foi desenvolvido por alunos da escola, com o objetivo de fornecer informa
 </div>
 
 ## Estrutura do Projeto
-
+```
 Projeto-Escola/
 │
 ├── index.html
@@ -33,7 +33,7 @@ Projeto-Escola/
 │
 └── images/
     └── logo.png
-
+```
 ## Autor
 
 Luiz Guilherme
