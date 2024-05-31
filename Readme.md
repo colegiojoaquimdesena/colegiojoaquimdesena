@@ -10,6 +10,6 @@ O site foi desenvolvido por alunos da escola, com o objetivo de fornecer informa
 
 - HTML
 - CSS
-- JavaScript
+<img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
 ## Estrutura do Projeto
