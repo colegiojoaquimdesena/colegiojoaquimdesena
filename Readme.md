@@ -1,5 +1,3 @@
-# Escola Projeto
-
 Este é um projeto de site para o Colégio Estadual Joaquim de Sena e Silva.
 
 ## Descrição
