@@ -32,6 +32,11 @@ nav ul li a {
     text-decoration: none;
 }
 
+nav ul li a:hover {
+    color: rgb(197, 197, 197);
+    transition: .5s;
+}
+
 .hero {
     background: url('../images/hero.jpg') no-repeat center center/cover;
     color: white;
