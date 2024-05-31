@@ -13,3 +13,24 @@ O site foi desenvolvido por alunos da escola, com o objetivo de fornecer informa
 - JavaScript
 
 ## Estrutura do Projeto
+
+Projeto-Escola/
+│
+├── index.html
+├── about.html
+├── courses.html
+├── news.html
+├── contact.html
+│
+├── css/
+│   └── styles.css
+│
+├── js/
+│   └── script.js
+│
+└── images/
+    └── logo.png
+
+## Autor
+
+Luiz Guilherme
