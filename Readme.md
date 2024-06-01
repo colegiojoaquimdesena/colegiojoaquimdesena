@@ -42,7 +42,6 @@ Se você deseja contribuir para o desenvolvimento do site da Projeto Escola, sin
 4. Faça push para a branch (`git push origin feature/nova-feature`)
 5. Crie um novo Pull Request
 
-
 ## Autor
 
 Luiz Guilherme
