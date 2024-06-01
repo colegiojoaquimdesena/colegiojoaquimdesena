@@ -16,7 +16,7 @@ O site foi desenvolvido por alunos da escola, com o objetivo de fornecer informa
 </div>
 
 ## Estrutura do Projeto
-```
+
 Projeto-Escola/
 │
 ├── index.html
@@ -33,7 +33,18 @@ Projeto-Escola/
 │
 └── images/
     └── logo.png
-```
+
+## Como Contribuir
+
+Se você deseja contribuir para o desenvolvimento do site da Projeto Escola, sinta-se à vontade:
+
+1. Faça um fork do repositório
+2. Crie uma nova branch (`git checkout -b feature/nova-feature`)
+3. Faça commit das suas alterações (`git commit -am 'Adicionando nova feature'`)
+4. Faça push para a branch (`git push origin feature/nova-feature`)
+5. Crie um novo Pull Request
+
+
 ## Autor
 
 Luiz Guilherme
