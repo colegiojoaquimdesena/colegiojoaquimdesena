@@ -15,7 +15,7 @@ O site foi desenvolvido por alunos da escola, com o objetivo de fornecer informa
 
 ## Estrutura do Projeto
 ```
-Projeto-Escola/
+site-colegiojoaquimdesena/
 │
 ├── index.html
 ├── about.html
